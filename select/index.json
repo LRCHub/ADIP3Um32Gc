@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Connect",
+  "base_artist": "ClariS",
+  "createdAt": "2026-02-16T16:31:59.316071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Connect",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Connect_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Connect",
+      "artist": "Stacey Q",
+      "has_synced": false,
+      "path": "select/02_We_Connect_Stacey_Q.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Connect Up to Me",
+      "artist": "Ric Ocasek",
+      "has_synced": false,
+      "path": "select/03_Connect_Up_to_Me_Ric_Ocasek.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Re-Connect",
+      "artist": "Anathema",
+      "has_synced": true,
+      "path": "select/04_Re-Connect_Anathema.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Connect the Dots",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/05_Connect_the_Dots_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dear Maria, Count Me In (Connect Sets Acoustic)",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/06_Dear_Maria,_Count_Me_In_(Connect_Sets_Acoustic)_All_Time_Low.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dear Maria, Count Me In (Connect Sets acoustic)",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/07_Dear_Maria,_Count_Me_In_(Connect_Sets_acoustic)_All_Time_Low.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let It Roll (Connect Sets Acoustic)",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/08_Let_It_Roll_(Connect_Sets_Acoustic)_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Connect",
+      "artist": "Holly Valance",
+      "has_synced": true,
+      "path": "select/09_Connect_Holly_Valance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blue Cadet-3, Do You Connect",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/10_Blue_Cadet-3,_Do_You_Connect_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blue Cadet-3, Do You Connect?",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/11_Blue_Cadet-3,_Do_You_Connect_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dinner at 8 - Connect Set",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/12_Dinner_at_8_-_Connect_Set_Keane.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Connect 5",
+      "artist": "LAUNDRY DAY",
+      "has_synced": true,
+      "path": "select/13_Connect_5_LAUNDRY_DAY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Connect (2017)",
+      "artist": "Claris",
+      "has_synced": true,
+      "path": "select/14_Connect_(2017)_Claris.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Connect",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/15_Connect_ClariS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Connect",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/pl_01_Connect_ClariS.txt"
+    }
+  ]
+}
